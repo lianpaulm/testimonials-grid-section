@@ -16,8 +16,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+- View the optimal layout for the site depending on their device's screen size
 
 <!-- ### Links
 
@@ -29,7 +28,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Flexbox
+- CSS Grid
 - Mobile-first workflow
 
 ## Author
