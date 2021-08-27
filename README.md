@@ -31,8 +31,8 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-## Author
+## My profile at Frontend Mentor
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
 
-- Frontend Mentor - [@lianpaulm](https://www.frontendmentor.io/profile/lianpaulm)
+- [@lianpaulm](https://www.frontendmentor.io/profile/lianpaulm)
